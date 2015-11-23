@@ -5,3 +5,6 @@ about_me
 
 hugot_lines/other_stuffs
 > "I’m great in bed; I can sleep for days."
+
+> Friendship is like peeing your pants. Everyone can see it, but only you can feel it.
+
