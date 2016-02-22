@@ -1,4 +1,4 @@
-emoji :soccer: Hala Madrid!
+emoji :soccer: :pray: Hala Madrid!
 ***
 about_me
 >  Hi I'm Mayumi, I love football and CR7.
